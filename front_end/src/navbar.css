@@ -1,0 +1,50 @@
+/* Logo Styling */
+.Reactlogo{
+    width: 100px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  /* Navbar Background */
+  .navbar {
+    padding: 0.5rem 2rem;
+    max-width: 100%;
+  }
+  
+  /* Navbar Links Styling */
+  .navbar-nav .nav-link {
+    color: rgb(8, 8, 8) !important;
+    margin: 0 10px;
+    font-size: 1rem;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color:royalblue !important;
+  }
+  
+  /* Search Bar Styling */
+  .search-bar input {
+    border-radius: 40px;
+  }
+  
+  .search-bar button {
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+  }
+  
+  /* Theme Toggle Button */
+  .theme-toggle {
+    background: transparent;
+    border: none;
+    font-size: 1.5rem;
+    color: royalblue;
+    margin-left: 15px;
+    cursor: pointer;
+  }
+  
+  .theme-toggle:hover {
+    color: #f0a500;
+  }
+  
